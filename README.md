@@ -1,7 +1,7 @@
 #KDE Presentations
 
 ##Installation
-Download plugin.media.kde.presentations.zip from the repository and install using Kodi's add-on manager. 
+Download `plugin.media.kde.presentations.zip` from the repository and install using Kodi's add-on manager. 
 
 Alternatively, you can install it manually by following these instructions:  
 Clone or download the contents of this repository to the [`<KODI_USERDATA>`](http://kodi.wiki/view/Userdata)`/addons` folder (where these files must be in a `plugin.media.kde.presentations` folder) and restart Kodi. 
