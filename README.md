@@ -1,7 +1,7 @@
 # KDE Presentations
 
 ## Installation
-* Download [`plugin.media.kde.presentations.zip`](/raw/master/plugin.media.kde.presentations.zip) from this repository
+* Download [`plugin.media.kde.presentations.zip`](/plugin.media.kde.presentations.zip) from this repository
 * [Install](https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file) using Kodi's add-on manager. 
 * You can now access it from the Video Add-ons or Music Add-ons section of each library to access video or audio files respectively.
 
